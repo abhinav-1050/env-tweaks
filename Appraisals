@@ -12,3 +12,7 @@ end
 appraise "activesupport 5.x" do
   gem "activesupport", "~> 5.0"
 end
+
+appraise "activesupport 8.x" do
+  gem "activesupport", "~> 8.0"
+end
